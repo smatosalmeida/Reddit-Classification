@@ -3,7 +3,7 @@
 ## Directory Structure
 
 ├── project_3
-    ├── dataset2
+    ├── dataset2    
         ├── cooking1.csv
         ├── cooking2.csv
         ├── cooking3.csv
@@ -47,7 +47,7 @@ The file provides a wide range of metadata scraped from the Reddit r/parenting a
 ### Data Dictionary
 
 |Feature|Type|Description| 
-|---|---|---|---| 
+|---|---|---|
 |title|object|title of the post| 
 |posts|object|text of the post| 
 |subreddit|object|name of subreddit of our project|
