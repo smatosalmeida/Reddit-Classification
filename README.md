@@ -3,7 +3,7 @@
 ## Directory Structure
 
 ├── project_3
-    ├── dataset2    
+    ├── dataset2
         ├── cooking1.csv
         ├── cooking2.csv
         ├── cooking3.csv
